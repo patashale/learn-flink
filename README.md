@@ -15,7 +15,6 @@
 ### 🌈 Contribution guidelines
 
 
-
 ### 👩‍💻 Useful resources
 
 #### Social:
@@ -25,6 +24,6 @@
 
 #### Logo:
 
-   Learn Flink | Learn Flink
-  :-------------------------:|:-------------------------:
-  ![Learn Flink Logo](https://github.com/patashale/learn-flink/assets/68323012/40f903c5-46ba-4a33-b2df-02d449e44b5c) | ![Learn Flink Logo](https://github.com/patashale/learn-flink/assets/68323012/40f903c5-46ba-4a33-b2df-02d449e44b5c)
+Learn Flink `#E6526F` | Learn Flink `#E6526F`
+:-------------------------:|:-------------------------:
+![Learn Flink Logo](https://github.com/patashale/learn-flink/assets/68323012/40f903c5-46ba-4a33-b2df-02d449e44b5c) | ![Learn Flink Logo](https://github.com/patashale/learn-flink/assets/68323012/40f903c5-46ba-4a33-b2df-02d449e44b5c)
